@@ -1,7 +1,7 @@
 # qiurong-Yu.github.io
 四点的阳光 个人简历
 
-# Rusume
+# Resume
 
 在河南工业大学上了本硕，在美迪西药理部进行肿瘤动物模型建立工作三年。
 
